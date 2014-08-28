@@ -1,6 +1,6 @@
 {
   "name": "fuelwatch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Integration with the Western Australian Fuel Watch RSS feed",
   "main": "index.js",
   "scripts": {
