@@ -1,0 +1,24 @@
+{
+  "name": "fuelwatch",
+  "version": "0.0.0",
+  "description": "Integration with the Western Australian Fuel Watch RSS feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/fuelwatch.git"
+  },
+  "keywords": [
+    "fuelwatch",
+    "api",
+    "integration"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/fuelwatch/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/fuelwatch"
+}
