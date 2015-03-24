@@ -6,7 +6,7 @@ A simple module for extracting current fuel price information from the WA
 
 [![NPM](https://nodei.co/npm/fuelwatch.png)](https://nodei.co/npm/fuelwatch/)
 
-
+[![bitHound Score](https://www.bithound.io/github/DamonOehlman/fuelwatch/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/fuelwatch) 
 
 ## RSS Endpoint Docs
 
@@ -16,7 +16,7 @@ A simple module for extracting current fuel price information from the WA
 
 ### MIT
 
-Copyright (c) 2014 Damon Oehlman <damon.oehlman@gmail.com>
+Copyright (c) 2015 Damon Oehlman <damon.oehlman@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
