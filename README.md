@@ -6,7 +6,7 @@ A simple module for extracting current fuel price information from the WA
 
 [![NPM](https://nodei.co/npm/fuelwatch.png)](https://nodei.co/npm/fuelwatch/)
 
-[![bitHound Score](https://www.bithound.io/github/DamonOehlman/fuelwatch/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/fuelwatch) 
+[![Build Status](https://img.shields.io/travis/DamonOehlman/fuelwatch.svg?branch=master)](https://travis-ci.org/DamonOehlman/fuelwatch) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/fuelwatch/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/fuelwatch) 
 
 ## RSS Endpoint Docs
 
