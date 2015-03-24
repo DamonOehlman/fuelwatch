@@ -1,6 +1,18 @@
 var request = require('request');
 var FeedParser = require('feedparser');
 
+/**
+  # fuelwatch
+
+  A simple module for extracting current fuel price information from the WA
+  [fuelwatch site](http://www.fuelwatch.wa.gov.au/).
+
+  ## RSS Endpoint Docs
+
+  <http://www.fuelwatch.wa.gov.au/fuelwatch/pages/public/contentholder.jspx?key=fuelwatchRSS.html>
+
+**/
+
 var FUELTYPES = [
   [],
   [ 'Unleaded Petrol' ],
